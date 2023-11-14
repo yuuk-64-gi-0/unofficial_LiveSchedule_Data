@@ -1,0 +1,2075 @@
+{
+    "Group Name":{
+        "value":[
+            {
+                "verified":"YYYY-MM-DDThh:mm:ssZ",
+                "subgroup":[
+                    "included Group Name",
+                    "included Group Name",
+                    "included Group Name"
+                ],
+                "members":[
+                    "AdminID",
+                    "AdminID"
+                ]
+            },
+            {
+                "verified":"YYYY-MM-DDThh:mm:ssZ",
+                "subgroup":[
+                    "included Group Name",
+                    "included Group Name"
+                ],
+                "members":[
+                    "AdminID",
+                    "AdminID"
+                ]
+            }
+        ],
+        "JAname":"グループ名日本語表記",
+        "ENname":"Group Name English description",
+        "color":"#ffffff"
+    },
+    "Project Image":{
+        "value":[
+            {
+                "verified":"2023-08-12T05:10:00Z"
+            }
+        ],
+        "JAname":"ホロジュール電光掲示板",
+        "ENname":"holodules electric board",
+        "color":"#ffffff"
+    },
+    "included Group Name":{
+        "value":[
+            {
+                "verified":"YYYY-MM-DDThh:mm:ssZ",
+                "members":[
+                    "AdminID",
+                    "AdminID"
+                ]
+            },
+            {
+                "verified":"YYYY-MM-DDThh:mm:ssZ",
+                "members":[
+                    "AdminID",
+                    "AdminID"
+                ]
+            }
+        ],
+        "JAname":"グループ名日本語表記",
+        "ENname":"Group Name English description",
+        "color":"#ffffff"
+    },
+    "hololive production":{
+        "value":[
+            {
+                "verified":"2019-12-02T03:00:00Z",
+                "subgroup":[
+                    "hololive",
+                    "HOLOSTARS",
+                    "INoNaKa Music"
+                ],
+                "members":[
+                    "CVHLPR2016061300"
+                ]
+            },
+            {
+                "verified":"2022-03-31T15:00:00Z",
+                "subgroup":[
+                    "hololive",
+                    "HOLOSTARS"
+                ],
+                "members":[
+                    "CVHLPR2016061300"
+                ]
+            }
+        ],
+        "JAname":"ホロライブプロダクション",
+        "ENname":"hololive production",
+        "color":"#27c7ff"
+    },
+    "INoNaKa Music":{
+        "value":[
+            {
+                "verified":"2019-05-19T03:00:00Z",
+                "members":[
+                ]
+            },
+            {
+                "verified":"2019-11-29T15:00:00Z",
+                "members":[
+                ]
+            }
+        ],
+        "JAname":"イノナカミュージック ",
+        "ENname":"INoNaKa Music",
+        "color":"#ffffff"
+    },
+    "hololive":{
+        "value":[
+            {
+                "verified":"2017-09-07T02:08:00Z",
+                "subgroup":[
+                    "hololive JP"
+                ]
+            },
+            {
+                "verified":"2020-04-06T08:04:00Z",
+                "subgroup":[
+                    "hololive JP",
+                    "hololive ID"
+                ]
+            },
+            {
+                "verified":"2020-09-12T13:00:00Z",
+                "subgroup":[
+                    "hololive JP",
+                    "hololive ID",
+                    "hololive EN"
+                ]
+            },
+            {
+                "verified":"2023-09-04T07:00:00Z",
+                "subgroup":[
+                    "hololive JP",
+                    "hololive ID",
+                    "hololive EN",
+                    "hololive DEV_IS"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ",
+        "ENname":"hololive",
+        "color":"#28c3ff"
+    },
+    "hololive JP":{
+        "value":[
+            {
+                "verified":"2017-09-07T02:08:00Z",
+                "members":[
+                    "CVHLHL2017090700"
+                ],
+                "subgroup":[
+                    "hololive JP staff"
+                ]
+            },
+            {
+                "verified":"2018-03-03T15:00:00Z",
+                "members":[
+                    "CVHLHL2017090700",
+                    "CVHLHL2018030400"
+                ],
+                "subgroup":[
+                    "hololive JP staff"
+                ]
+            },
+            {
+                "verified":"2018-05-02T15:00:00Z",
+                "members":[
+                    "CVHLHL2017090700",
+                    "CVHLHL2018030400",
+                    "CVHLHL2018050300"
+                ],
+                "subgroup":[
+                    "hololive JP staff"
+                ]
+            },
+            {
+                "verified":"2018-05-31T15:00:00Z",
+                "subgroup":[
+                    "hololive JP staff",
+                    "hololive Generation 1"
+                ],
+                "members":[
+                    "CVHLHL2017090700",
+                    "CVHLHL2018030400"
+                ]
+            },
+            {
+                "verified":"2018-08-07T15:00:00Z",
+                "subgroup":[
+                    "hololive JP staff",
+                    "hololive Generation 1",
+                    "hololive Generation 2"
+                ],
+                "members":[
+                    "CVHLHL2017090700",
+                    "CVHLHL2018030400"
+                ]
+            },
+            {
+                "verified":"2018-11-07T15:00:00Z",
+                "subgroup":[
+                    "hololive JP staff",
+                    "hololive Generation 1",
+                    "hololive Generation 2"
+                ],
+                "members":[
+                    "CVHLHL2017090700",
+                    "CVHLHL2018030400",
+                    "CVHLHL2018110800"
+                ]
+            },
+            {
+                "verified":"2018-12-05T15:00:00Z",
+                "subgroup":[
+                    "hololive JP staff",
+                    "hololive Generation 1",
+                    "hololive Generation 2",
+                    "hololive GAMERS"
+                ],
+                "members":[
+                    "CVHLHL2017090700",
+                    "CVHLHL2018030400",
+                    "CVHLHL2018110800"
+                ]
+            },
+            {
+                "verified":"2019-07-07T15:00:00Z",
+                "subgroup":[
+                    "hololive JP staff",
+                    "hololive Generation 1",
+                    "hololive Generation 2",
+                    "hololive GAMERS",
+                    "hololive Generation 3"
+                ],
+                "members":[
+                    "CVHLHL2017090700",
+                    "CVHLHL2018030400",
+                    "CVHLHL2018122500",
+                    "CVHLHL2018110800"
+                ]
+            },
+            {
+                "verified":"2019-11-30T15:00:00Z",
+                "subgroup":[
+                    "hololive JP staff",
+                    "hololive Generation 0",
+                    "hololive Generation 1",
+                    "hololive Generation 2",
+                    "hololive GAMERS",
+                    "hololive Generation 3"
+                ],
+                "members":[
+                    "CVHLHL2018110800"
+                ]
+            },
+            {
+                "verified":"2019-12-25T03:00:00Z",
+                "subgroup":[
+                    "hololive JP staff",
+                    "hololive Generation 0",
+                    "hololive Generation 1",
+                    "hololive Generation 2",
+                    "hololive GAMERS",
+                    "hololive Generation 3",
+                    "hololive Generation 4"
+                ],
+                "members":[
+                    "CVHLHL2018110800"
+                ]
+            },
+            {
+                "verified":"2020-08-06T03:00:00Z",
+                "subgroup":[
+                    "hololive JP staff",
+                    "hololive Generation 0",
+                    "hololive Generation 1",
+                    "hololive Generation 2",
+                    "hololive GAMERS",
+                    "hololive Generation 3",
+                    "hololive Generation 4",
+                    "hololive Generation 5"
+                ],
+                "members":[
+                    "CVHLHL2018110800"
+                ]
+            },
+            {
+                "verified":"2021-11-25T15:00:00Z",
+                "subgroup":[
+                    "hololive JP staff",
+                    "hololive Generation 0",
+                    "hololive Generation 1",
+                    "hololive Generation 2",
+                    "hololive GAMERS",
+                    "hololive Generation 3",
+                    "hololive Generation 4",
+                    "hololive Generation 5",
+                    "hololive holoX"
+                ],
+                "members":[
+                    "CVHLHL2018110800"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ (JP)",
+        "ENname":"hololive (JP)",
+        "color":"#28c3ff"
+    },
+    "hololive ID":{
+        "value":[
+            {
+                "verified":"2020-04-06T07:13:00Z",
+                "subgroup":[
+                    "hololive ID Generation 1"
+                ],
+                "members":[
+                    "CVHLHL2020062900"
+                ]
+            },
+            {
+                "verified":"2020-12-01T03:07:00Z",
+                "subgroup":[
+                    "hololive ID Generation 1",
+                    "hololive ID Generation 2"
+                ],
+                "members":[
+                    "CVHLHL2020062900"
+                ]
+            },
+            {
+                "verified":"2022-03-24T03:00:00Z",
+                "subgroup":[
+                    "hololive ID Generation 1",
+                    "hololive ID Generation 2",
+                    "hololive ID Generation 3"
+                ],
+                "members":[
+                    "CVHLHL2020062900"
+                ]
+            }
+        ],
+        "JAname":"ホロライブインドネシア",
+        "ENname":"hololive Indonesia",
+        "color":"#ff7c4d",
+        "colorJP":[["#27c7ff",10],["#ff7c4d",12]],
+        "colorEN":[["#27c7ff",9],["#ff7c4d",9]]
+    },
+    "hololive EN":{
+        "value":[
+            {
+                "verified":"2020-09-09T03:11:00Z",
+                "subgroup":[
+                    "hololive Myth"
+                ],
+                "members":[
+                    "CVHLHL2020090906"
+                ]
+            },
+            {
+                "verified":"2021-07-07T01:00:00Z",
+                "subgroup":[
+                    "hololive Myth",
+                    "hololive Project: HOPE"
+                ],
+                "members":[
+                    "CVHLHL2020090906"
+                ]
+            },
+            {
+                "verified":"2021-08-17T01:05:00Z",
+                "subgroup":[
+                    "hololive Myth",
+                    "hololive Project: HOPE",
+                    "hololive Council"
+                ],
+                "members":[
+                    "CVHLHL2020090906"
+                ]
+            },
+            {
+                "verified":"2023-07-26T03:00:00Z",
+                "subgroup":[
+                    "hololive Myth",
+                    "hololive Project: HOPE",
+                    "hololive Council",
+                    "hololive Advent"
+                ],
+                "members":[
+                    "CVHLHL2020090906"
+                ]
+            },
+            {
+                "verified":"2023-10-09T03:07:00Z",
+                "subgroup":[
+                    "hololive Myth",
+                    "hololive Project: HOPE",
+                    "hololive Promise",
+                    "hololive Council",
+                    "hololive Advent"
+                ],
+                "members":[
+                    "CVHLHL2020090906"
+                ]
+            }
+        ],
+        "JAname":"ホロライブEnglish",
+        "ENname":"hololive English",
+        "color":"#c283b6",
+        "colorJP":[["#27c7ff",10],["#c283b6",7]],
+        "colorEN":[["#27c7ff",9],["#c283b6",7]]
+    },
+    "hololive DEV_IS":{
+        "value":[
+            {
+                "verified":"2023-08-27T12:39:00Z",
+                "subgroup":[
+                ]
+            },
+            {
+                "verified":"2023-09-04T07:00:00Z",
+                "subgroup":[
+                    "hololive ReGLOSS"
+                ],
+                "members":[
+                    "CVHLHL2023082700"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ DEV_IS",
+        "ENname":"hololive DEV_IS",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",10],["#ffffff",7]],
+        "colorEN":[["#27c7ff",9],["#ffffff",7]]
+    },
+    "HOLOSTARS":{
+        "value":[
+            {
+                "verified":"2019-05-27T08:09:00Z",
+                "subgroup":[
+                    "HOLOSTARS JP"
+                ]
+            },
+            {
+                "verified":"2022-07-18T00:00:00Z",
+                "subgroup":[
+                    "HOLOSTARS JP",
+                    "HOLOSTARS EN"
+                ]
+            }
+        ],
+        "JAname":"HOLOSTARS",
+        "ENname":"HOLOSTARS",
+        "color":"#616aff"
+    },
+    "HOLOSTARS JP":{
+        "value":[
+            {
+                "verified":"2019-06-02T15:01:00Z",
+                "subgroup":[
+                    "HOLOSTARS 1st Generation"
+                ]
+            },
+            {
+                "verified":"2019-08-01T00:00:00Z",
+                "subgroup":[
+                    "HOLOSTARS 1st Generation"
+                ],
+                "members":[
+                    "CVHLHS2019080100"
+                ]
+            },
+            {
+                "verified":"2019-10-17T00:00:00Z",
+                "subgroup":[
+                    "HOLOSTARS 1st Generation"
+                ],
+                "members":[
+                    "CVHLHS2019080100",
+                    "CVHLHS2019101701"
+                ]
+            },
+            {
+                "verified":"2019-12-04T02:00:00Z",
+                "subgroup":[
+                    "HOLOSTARS 1st Generation",
+                    "HOLOSTARS 2nd Generation"
+                ],
+                "members":[
+                    "CVHLHS2019080100",
+                    "CVHLHS2019101701"
+                ]
+            },
+            {
+                "verified":"2020-04-27T03:01:00Z",
+                "subgroup":[
+                    "HOLOSTARS 1st Generation",
+                    "HOLOSTARS 2nd Generation",
+                    "HOLOSTARS 3rd Generation"
+                ],
+                "members":[
+                    "CVHLHS2019080100",
+                    "CVHLHS2019101701"
+                ]
+            },
+            {
+                "verified":"2022-03-19T01:00:00Z",
+                "subgroup":[
+                    "HOLOSTARS 1st Generation",
+                    "HOLOSTARS 2nd Generation",
+                    "HOLOSTARS 3rd Generation",
+                    "HOLOSTARS UPROAR!!"
+                ],
+                "members":[
+                    "CVHLHS2019080100",
+                    "CVHLHS2019101701"
+                ]
+            },
+            {
+                "verified":"2022-11-01T00:00:00Z",
+                "subgroup":[
+                    "HOLOSTARS 1st Generation",
+                    "HOLOSTARS 2nd Generation",
+                    "HOLOSTARS 3rd Generation",
+                    "HOLOSTARS UPROAR!!"
+                ],
+                "members":[
+                    "CVHLHS2019101701"
+                ]
+            }
+        ],
+        "JAname":"ホロスターズ (JP)",
+        "ENname":"HOLOSTARS (JP)",
+        "color":"#616aff"
+    },
+    "HOLOSTARS EN":{
+        "value":[
+            {
+                "verified":"2022-07-18T01:01:00Z",
+                "subgroup":[
+                    "HOLOSTARS English -TEMPUS-"
+                ],
+                "members":[
+                    "CVHLHS2022071500"
+                ]
+            }
+        ],
+        "JAname":"HOLOSTARS English",
+        "ENname":"HOLOSTARS English",
+        "color":"#a055d2",
+        "colorJP":[["#616aff",10],["#a055d2",7]],
+        "colorEN":[["#616aff",10],["#a055d2",7]]
+    },
+    "hololive JP staff":{
+        "value":[
+            {
+                "verified":"2017-09-07T02:08:00Z",
+                "members":[
+                    "CVHLHL2017090701"
+                ]
+            },
+            {
+                "verified":"2022-04-01T01:05:00Z",
+                "members":[
+                    "CVHLHL2017090701",
+                    "CVHLHL2022040101"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 事務所スタッフ",
+        "ENname":"hololive Office Staff",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",14]],
+        "colorEN":[["#27c7ff",9],["#ffffff",12]]
+    },
+    "hololive Generation 0":{
+        "value":[
+            {
+                "verified":"2019-11-30T15:00:00Z",
+                "members":[
+                    "CVHLHL2017090700",
+                    "CVHLHL2018030400",
+                    "CVHLHL2018122500",
+                    "CVHLHL2019120100"
+                ]
+            },
+            {
+                "verified":"2022-03-31T15:00:00Z",
+                "members":[
+                    "CVHLHL2017090700",
+                    "CVHLHL2018030400",
+                    "CVHLHL2018122500",
+                    "CVHLHL2019120100",
+                    "CVHLHL2022040100"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 0期生",
+        "ENname":"hololive Generation 0",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",5]],
+        "colorEN":[["#27c7ff",9],["#ffffff",12]]
+    },
+    "hololive Generation 1":{
+        "value":[
+            {
+                "verified":"2018-05-31T15:00:00Z",
+                "members":[
+                    "CVHLHL2018050300",
+                    "CVHLHL2018060100",
+                    "CVHLHL2018060101",
+                    "CVHLHL2018060102",
+                    "CVHLHL2018060103",
+                    "CVHLHL2018060200"
+                ]
+            },
+            {
+                "verified":"2018-06-26T02:54:00Z",
+                "members":[
+                    "CVHLHL2018050300",
+                    "CVHLHL2018060100",
+                    "CVHLHL2018060101",
+                    "CVHLHL2018060102",
+                    "CVHLHL2018060200"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 1期生",
+        "ENname":"hololive Generation 1",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",5]],
+        "colorEN":[["#27c7ff",9],["#ffffff",12]]
+    },
+    "hololive Generation 2":{
+        "value":[
+            {
+                "verified":"2018-08-07T15:00:00Z",
+                "members":[
+                    "CVHLHL2018080800"
+                ]
+            },
+            {
+                "verified":"2018-08-16T15:00:00Z",
+                "members":[
+                    "CVHLHL2018080800",
+                    "CVHLHL2018081700"
+                ]
+            },
+            {
+                "verified":"2018-08-20T06:48:00Z",
+                "members":[
+                    "CVHLHL2018080800",
+                    "CVHLHL2018081700",
+                    "CVHLHL2018082000"
+                ]
+            },
+            {
+                "verified":"2018-09-03T03:00:00Z",
+                "members":[
+                    "CVHLHL2018080800",
+                    "CVHLHL2018081700",
+                    "CVHLHL2018082000",
+                    "CVHLHL2018090300"
+                ]
+            },
+            {
+                "verified":"2018-09-16T03:00:00Z",
+                "members":[
+                    "CVHLHL2018080800",
+                    "CVHLHL2018081700",
+                    "CVHLHL2018082000",
+                    "CVHLHL2018090300",
+                    "CVHLHL2018091600"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 2期生",
+        "ENname":"hololive Generation 2",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",5]],
+        "colorEN":[["#27c7ff",9],["#ffffff",12]]
+    },
+    "hololive Generation 3":{
+        "value":[
+            {
+                "verified":"2019-07-07T15:00:00Z",
+                "members":[
+                    "CVHLHL2019070800",
+                    "CVHLHL2019070801"
+                ]
+            },
+            {
+                "verified":"2019-08-01T08:02:00Z",
+                "members":[
+                    "CVHLHL2019070800",
+                    "CVHLHL2019070801",
+                    "CVHLHL2019080101"
+                ]
+            },
+            {
+                "verified":"2019-08-01T08:12:00Z",
+                "members":[
+                    "CVHLHL2019070800",
+                    "CVHLHL2019070801",
+                    "CVHLHL2019080101",
+                    "CVHLHL2019080100"
+                ]
+            },
+            {
+                "verified":"2019-08-01T08:17:00Z",
+                "members":[
+                    "CVHLHL2019070800",
+                    "CVHLHL2019070801",
+                    "CVHLHL2019080101",
+                    "CVHLHL2019080100",
+                    "CVHLHL2019080102"
+                ]
+            },
+            {
+                "verified":"2022-02-24T15:00:00Z",
+                "members":[
+                    "CVHLHL2019070800",
+                    "CVHLHL2019080101",
+                    "CVHLHL2019080100",
+                    "CVHLHL2019080102"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 3期生",
+        "ENname":"hololive Generation 3",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",5]],
+        "colorEN":[["#27c7ff",9],["#ffffff",12]]
+    },
+    "hololive Generation 4":{
+        "value":[
+            {
+                "verified":"2019-12-25T03:00:00Z",
+                "members":[
+                    "CVHLHL2019122500",
+                    "CVHLHL2019122501",
+                    "CVHLHL2019122502",
+                    "CVHLHL2019122503",
+                    "CVHLHL2019122504"
+                ]
+            },
+            {
+                "verified":"2021-07-01T15:00:00Z",
+                "members":[
+                    "CVHLHL2019122500",
+                    "CVHLHL2019122502",
+                    "CVHLHL2019122503",
+                    "CVHLHL2019122504"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 4期生",
+        "ENname":"hololive Generation 4",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",5]],
+        "colorEN":[["#27c7ff",9],["#ffffff",12]]
+    },
+    "hololive Generation 5":{
+        "value":[
+            {
+                "verified":"2020-08-06T03:00:00Z",
+                "members":[
+                    "CVHLHL2020080600",
+                    "CVHLHL2020080601",
+                    "CVHLHL2020080602",
+                    "CVHLHL2020080603",
+                    "CVHLHL2020080604"
+                ]
+            },
+            {
+                "verified":"2020-08-31T15:00:00Z",
+                "members":[
+                    "CVHLHL2020080600",
+                    "CVHLHL2020080601",
+                    "CVHLHL2020080602",
+                    "CVHLHL2020080604"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 5期生",
+        "ENname":"hololive Generation 5",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",5]],
+        "colorEN":[["#27c7ff",9],["#ffffff",12]]
+    },
+    "hololive GAMERS":{
+        "value":[
+            {
+                "verified":"2018-12-05T15:00:00Z",
+                "members":[
+                    "CVHLHL2018060101",
+                    "CVHLHL2018120600"
+                ]
+            },
+            {
+                "verified":"2019-04-06T03:00:00Z",
+                "members":[
+                    "CVHLHL2018060101",
+                    "CVHLHL2018120600",
+                    "CVHLHL2019040600"
+                ]
+            },
+            {
+                "verified":"2019-04-13T03:00:00Z",
+                "members":[
+                    "CVHLHL2018060101",
+                    "CVHLHL2018120600",
+                    "CVHLHL2019040600",
+                    "CVHLHL2019041300"
+                ]
+            }
+        ],
+        "JAname":"ホロライブゲーマーズ",
+        "ENname":"hololive GAMERS",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",10],["#ffffff",10]],
+        "colorEN":[["#27c7ff",9],["#ffffff",6]]
+    },
+    "hololive holoX":{
+        "value":[
+            {
+                "verified":"2021-11-26T03:01:00Z",
+                "members":[
+                    "CVHLHL2020112600",
+                    "CVHLHL2020112601",
+                    "CVHLHL2020112602",
+                    "CVHLHL2020112603",
+                    "CVHLHL2020112604"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 秘密結社holoX",
+        "ENname":"hololive holoX",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#441495",13]],
+        "colorEN":[["#27c7ff",9],["#441495",5]]
+    },
+    "hololive ID Generation 1":{
+        "value":[
+            {
+                "verified":"2020-04-06T07:13:00Z",
+                "members":[
+                    "CVHLHL2020040600",
+                    "CVHLHL2020040601",
+                    "CVHLHL2020040602"
+                ]
+            }
+        ],
+        "JAname":"ホロライブインドネシア 1期生",
+        "ENname":"hololive Indonesia Generation 1",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",10],["#ff7c4d",13],["#ffffff",5]],
+        "colorEN":[["#27c7ff",9],["#ff7c4d",10],["#ffffff",12]]
+    },
+    "hololive ID Generation 2":{
+        "value":[
+            {
+                "verified":"2020-12-01T03:07:00Z",
+                "members":[
+                    "CVHLHL2020120100",
+                    "CVHLHL2020120101",
+                    "CVHLHL2020120102"
+                ]
+            }
+        ],
+        "JAname":"ホロライブインドネシア 2期生",
+        "ENname":"hololive Indonesia Generation 2",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",10],["#ff7c4d",13],["#ffffff",5]],
+        "colorEN":[["#27c7ff",9],["#ff7c4d",10],["#ffffff",12]]
+    },
+    "hololive ID Generation 3":{
+        "value":[
+            {
+                "verified":"2022-03-24T03:00:00Z",
+                "members":[
+                    "CVHLHL2022032400",
+                    "CVHLHL2022032401",
+                    "CVHLHL2022032402"
+                ]
+            }
+        ],
+        "JAname":"ホロライブインドネシア 3期生",
+        "ENname":"hololive Indonesia Generation 3",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",10],["#ff7c4d",13],["#ffffff",5]],
+        "colorEN":[["#27c7ff",9],["#ff7c4d",10],["#ffffff",12]]
+    },
+    "hololive Myth":{
+        "value":[
+            {
+                "verified":"2020-09-09T03:11:00Z",
+                "members":[
+                    "CVHLHL2020090901",
+                    "CVHLHL2020090902",
+                    "CVHLHL2020090903",
+                    "CVHLHL2020090904",
+                    "CVHLHL2020090905"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ Myth",
+        "ENname":"hololive Myth",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",4]],
+        "colorEN":[["#27c7ff",9],["#ffffff",4]]
+    },
+    "hololive Project: HOPE + Council":{
+        "value":[
+            {
+                "verified":"2021-07-07T01:00:00Z",
+                "subgroup":[
+                    "hololive Project: HOPE"
+                ]
+            },
+            {
+                "verified":"2021-08-17T01:05:00Z",
+                "subgroup":[
+                    "hololive Project: HOPE",
+                    "hololive Council"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ Project: HOPE + Council",
+        "ENname":"hololive Project: HOPE + Council",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",23]],
+        "colorEN":[["#27c7ff",9],["#ffffff",23]]
+    },
+    "hololive Project: HOPE":{
+        "value":[
+            {
+                "verified":"2021-07-07T01:00:00Z",
+                "members":[
+                    "CVHLHL2021070700"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ Project: HOPE",
+        "ENname":"hololive Project: HOPE",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",13]],
+        "colorEN":[["#27c7ff",9],["#ffffff",13]]
+    },
+    "hololive Council":{
+        "value":[
+            {
+                "verified":"2021-08-17T01:05:00Z",
+                "members":[
+                    "CVHLHL2021081700",
+                    "CVHLHL2021081701",
+                    "CVHLHL2021081702",
+                    "CVHLHL2021081703",
+                    "CVHLHL2021081704"
+                ]
+            },
+            {
+                "verified":"2022-08-01T16:00:00Z",
+                "members":[
+                    "CVHLHL2021081701",
+                    "CVHLHL2021081702",
+                    "CVHLHL2021081703",
+                    "CVHLHL2021081704"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ Council",
+        "ENname":"hololive Council",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",7]],
+        "colorEN":[["#27c7ff",9],["#ffffff",7]]
+    },
+    "hololive Advent":{
+        "value":[
+            {
+                "verified":"2023-07-26T03:00:00Z",
+                "members":[
+                    "CVHLHL2023072600",
+                    "CVHLHL2023072601",
+                    "CVHLHL2023072602",
+                    "CVHLHL2023072603",
+                    "CVHLHL2023072604",
+                    "CVHLHL2023072605"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ Advent",
+        "ENname":"hololive Advent",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",6]],
+        "colorEN":[["#27c7ff",9],["#ffffff",6]]
+    },
+    "hololive Promise":{
+        "value":[
+            {
+                "verified":"2023-10-09T03:07:00Z",
+                "members":[
+                    "CVHLHL2021070700",
+                    "CVHLHL2021081701",
+                    "CVHLHL2021081702",
+                    "CVHLHL2021081703",
+                    "CVHLHL2021081704"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ Promise",
+        "ENname":"hololive Promise",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",7]],
+        "colorEN":[["#27c7ff",9],["#ffffff",7]]
+    },
+    "hololive ReGLOSS":{
+        "value":[
+            {
+                "verified":"2023-09-04T07:00:00Z",
+                "members":[
+                    "CVHLHL2023090400",
+                    "CVHLHL2023090401",
+                    "CVHLHL2023090402",
+                    "CVHLHL2023090403",
+                    "CVHLHL2023090404"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ ReGLOSS",
+        "ENname":"hololive ReGLOSS",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",10],["#ffffff",8]],
+        "colorEN":[["#27c7ff",9],["#ffffff",8]]
+    },
+    "HOLOSTARS 1st Generation":{
+        "value":[
+            {
+                "verified":"2019-06-02T15:01:00Z",
+                "members":[
+                    "CVHLHS2019060300"
+                ]
+            },
+            {
+                "verified":"2019-06-03T07:04:00Z",
+                "members":[
+                    "CVHLHS2019060300",
+                    "CVHLHS2019060301",
+                    "CVHLHS2019060302"
+                ]
+            },
+            {
+                "verified":"2019-09-01T09:00:00Z",
+                "members":[
+                    "CVHLHS2019060300",
+                    "CVHLHS2019060301",
+                    "CVHLHS2019060302",
+                    "CVHLHS2019090100"
+                ]
+            },
+            {
+                "verified":"2019-09-02T03:22:00Z",
+                "members":[
+                    "CVHLHS2019060300",
+                    "CVHLHS2019060301",
+                    "CVHLHS2019060302",
+                    "CVHLHS2019090100",
+                    "CVHLHS2019090200"
+                ]
+            },
+            {
+                "verified":"2019-10-17T02:02:00Z",
+                "members":[
+                    "CVHLHS2019060300",
+                    "CVHLHS2019060301",
+                    "CVHLHS2019060302",
+                    "CVHLHS2019090100",
+                    "CVHLHS2019090200",
+                    "CVHLHS2019101700"
+                ]
+            },
+            {
+                "verified":"2020-03-06T15:00:00Z",
+                "members":[
+                    "CVHLHS2019060300",
+                    "CVHLHS2019060301",
+                    "CVHLHS2019060302",
+                    "CVHLHS2019090100",
+                    "CVHLHS2019101700"
+                ]
+            },
+            {
+                "verified":"2020-11-30T15:00:00Z",
+                "members":[
+                    "CVHLHS2019060300",
+                    "CVHLHS2019060301",
+                    "CVHLHS2019090100",
+                    "CVHLHS2019101700"
+                ]
+            }
+        ],
+        "JAname":"ホロスターズ 1期生",
+        "ENname":"HOLOSTARS 1st Generation",
+        "color":"#ffffff",
+        "colorJP":[["#616aff",13],["#ffffff",5]],
+        "colorEN":[["#616aff",10],["#ffffff",14]]
+    },
+    "HOLOSTARS 2nd Generation":{
+        "value":[
+            {
+                "verified":"2019-12-04T02:00:00Z",
+                "members":[
+                    "CVHLHS2019120400",
+                    "CVHLHS2019120401",
+                    "CVHLHS2019120402"
+                ]
+            }
+        ],
+        "JAname":"ホロスターズ 2期生",
+        "ENname":"HOLOSTARS 2nd Generation",
+        "color":"#ffffff",
+        "colorJP":[["#616aff",13],["#ffffff",5]],
+        "colorEN":[["#616aff",10],["#ffffff",14]]
+    },
+    "HOLOSTARS 3rd Generation":{
+        "value":[
+            {
+                "verified":"2020-04-27T03:01:00Z",
+                "members":[
+                    "CVHLHS2020042700",
+                    "CVHLHS2020042701",
+                    "CVHLHS2020042702"
+                ]
+            },
+            {
+                "verified":"2020-07-28T15:00:00Z",
+                "members":[
+                    "CVHLHS2020042701",
+                    "CVHLHS2020042702"
+                ]
+            }
+        ],
+        "JAname":"ホロスターズ 3期生",
+        "ENname":"HOLOSTARS 3rd Generation",
+        "color":"#ffffff",
+        "colorJP":[["#616aff",13],["#ffffff",5]],
+        "colorEN":[["#616aff",10],["#ffffff",14]]
+    },
+    "HOLOSTARS UPROAR!!":{
+        "value":[
+            {
+                "verified":"2022-03-19T01:00:00Z",
+                "members":[
+                    "CVHLHS2022031900",
+                    "CVHLHS2022031901",
+                    "CVHLHS2022031902",
+                    "CVHLHS2022031903"
+                ]
+            }
+        ],
+        "JAname":"ホロスターズ UPROAR!!",
+        "ENname":"HOLOSTARS UPROAR!!",
+        "color":"#ffffff",
+        "colorJP":[["#616aff",13],["#ffffff",8]],
+        "colorEN":[["#616aff",10],["#ffffff",8]]
+    },
+    "HOLOSTARS English -TEMPUS-":{
+        "value":[
+            {
+                "verified":"2022-07-18T01:01:00Z",
+                "members":[
+                    "CVHLHS2022071800",
+                    "CVHLHS2022071801",
+                    "CVHLHS2022071802",
+                    "CVHLHS2022071803"
+                ]
+            },
+            {
+                "verified":"2023-01-05T03:09:00Z",
+                "members":[
+                    "CVHLHS2022071800",
+                    "CVHLHS2022071801",
+                    "CVHLHS2022071802",
+                    "CVHLHS2022071803",
+                    "CVHLHS2023010500",
+                    "CVHLHS2023010501",
+                    "CVHLHS2023010502",
+                    "CVHLHS2023010503"
+                ]
+            },
+            {
+                "verified":"2023-08-31T15:00:00Z",
+                "members":[
+                    "CVHLHS2022071800",
+                    "CVHLHS2022071802",
+                    "CVHLHS2023010500",
+                    "CVHLHS2023010501",
+                    "CVHLHS2023010502",
+                    "CVHLHS2023010503"
+                ]
+            }
+        ],
+        "JAname":"ホロスターズ TEMPUS",
+        "ENname":"HOLOSTARS English -TEMPUS-",
+        "color":"#ffffff",
+        "colorJP":[["#616aff",13],["#ffffff",6]],
+        "colorEN":[["#616aff",10],["#a055d2",7],["#ffffff",9]]
+    },
+    "hololive NePoLaBo":{
+        "value":[
+            {
+                "verified":"2020-08-31T15:00:00Z",
+                "members":[
+                    "CVHLHL2020080601",
+                    "CVHLHL2020080604",
+                    "CVHLHL2020080600",
+                    "CVHLHL2020080602"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ ねぽらぼ",
+        "ENname":"hololive NePoLaBo",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#fe7a0f",2],["#ab0808",2],["#48b5e3",2],["#5fcfa6",2]],
+        "colorEN":[["#27c7ff",9],["#fe7a0f",2],["#ab0808",2],["#48b5e3",2],["#5fcfa6",2]]
+    },
+    "hololive miComet":{
+        "value":[
+            {
+                "verified":"2020-08-31T15:00:00Z",
+                "members":[
+                    "CVHLHL2018122500",
+                    "CVHLHL2019120100"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ miComet",
+        "ENname":"hololive miComet",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",22],["#fe4b74",7],["#2dcde4",7]],
+        "colorEN":[["#27c7ff",18],["#fe4b74",7],["#2dcde4",7]]
+    },
+    "hololive ShishiWata":{
+        "value":[
+            {
+                "verified":"2020-08-01T15:00:00Z",
+                "members":[
+                    "CVHLHL2020080602",
+                    "CVHLHL2019122502"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ ししわた",
+        "ENname":"hololive ShishiWata",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#5fcfa6",4],["#dbda89",4]],
+        "colorEN":[["#27c7ff",9],["#5fcfa6",6],["#dbda89",4]]
+    },
+    "hololive SoARo":{
+        "value":[
+            {
+                "verified":"2022-03-31T15:00:00Z",
+                "members":[
+                    "CVHLHL2017090700",
+                    "CVHLHL2022040100",
+                    "CVHLHL2018030400"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ そあろ",
+        "ENname":"hololive SoARo",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#0146ea",2],["#d11c76",2],["#804e7f",2]],
+        "colorEN":[["#27c7ff",9],["#0146ea",2],["#d11c76",1],["#804e7f",2]]
+    },
+    "hololive SoAzKo":{
+        "value":[
+            {
+                "verified":"2022-03-31T15:00:00Z",
+                "members":[
+                    "CVHLHL2017090700",
+                    "CVHLHL2022040100",
+                    "CVHLHL2020112602"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ SoAzKo",
+        "ENname":"hololive SoAzKo",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#0146ea",2],["#d11c76",2],["#fe68ad",2]],
+        "colorEN":[["#27c7ff",9],["#0146ea",2],["#d11c76",2],["#fe68ad",2]]
+    },
+    "hololive HappySet":{
+        "value":[
+            {
+                "verified":"2020-08-01T15:00:00Z",
+                "members":[
+                    "CVHLHL2018030400",
+                    "CVHLHL2018060102",
+                    "CVHLHL2018090300"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ ハッピーセット",
+        "ENname":"hololive HappySet",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",14]],
+        "colorEN":[["#27c7ff",9],["#ffffff",8]]
+    },
+    "hololive AnPonTanSisters":{
+        "value":[
+            {
+                "verified":"2020-09-10T15:00:00Z",
+                "members":[
+                    "CVHLHL2018030400",
+                    "CVHLHL2018060100",
+                    "CVHLHL2019122504"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ あんぽんたん姉妹",
+        "ENname":"hololive AnPonTan Sisters",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#dc0485",4],["#804e7f",4],["#db6cad",4],["#ffffff",4]],
+        "colorEN":[["#27c7ff",9],["#dc0485",2],["#804e7f",3],["#db6cad",4],["#ffffff",7]]
+    },
+    "hololive Warudakumi":{
+        "value":[
+            {
+                "verified":"2020-09-10T15:00:00Z",
+                "members":[
+                    "CVHLHL2018030400",
+                    "CVHLHL2018060100",
+                    "CVHLHL2019122504"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ わるだ組",
+        "ENname":"hololive Warudakumi",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",8]],
+        "colorEN":[["#27c7ff",9],["#ffffff",10]]
+    },
+    "hololive Kaminariokoshi":{
+        "value":[
+            {
+                "verified":"2019-04-12T15:00:00Z",
+                "members":[
+                    "CVHLHL2018122500",
+                    "CVHLHL2019040600",
+                    "CVHLHL2019041300"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ かみなりおこし",
+        "ENname":"hololive Kaminariokoshi",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",14]],
+        "colorEN":[["#27c7ff",9],["#ffffff",14]]
+    },
+    "hololive 2D Signal":{
+        "value":[
+            {
+                "verified":"2019-11-30T15:00:00Z",
+                "members":[
+                    "CVHLHL2019120100",
+                    "CVHLHL2019080100",
+                    "CVHLHL2019080102"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 2Dシグナル",
+        "ENname":"hololive 2D Signal",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",10]],
+        "colorEN":[["#27c7ff",9],["#ffffff",9]]
+    },
+    "hololive 星天巻":{
+        "value":[
+            {
+                "verified":"2019-12-24T15:00:00Z",
+                "members":[
+                    "CVHLHL2019120100",
+                    "CVHLHL2019122500",
+                    "CVHLHL2019122502"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 星天巻",
+        "ENname":"hololive 星天巻",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",6]],
+        "colorEN":[["#27c7ff",9],["#ffffff",6]]
+    },
+    "hololive Däsup!":{
+        "value":[
+            {
+                "verified":"2020-08-05T15:00:00Z",
+                "members":[
+                    "CVHLHL2019120100",
+                    "CVHLHL2019122503",
+                    "CVHLHL2020080601"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ Däsup!",
+        "ENname":"hololive Däsup!",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",7]],
+        "colorEN":[["#27c7ff",9],["#ffffff",7]]
+    },
+    "hololive Startend":{
+        "value":[
+            {
+                "verified":"2020-08-05T15:00:00Z",
+                "members":[
+                    "CVHLHL2019120100",
+                    "CVHLHL2018080800",
+                    "CVHLHL2019122503"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ Startend",
+        "ENname":"hololive Startend",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",8]],
+        "colorEN":[["#27c7ff",9],["#ffffff",8]]
+    },
+    "hololive TensaiPinkSanjushi":{
+        "value":[
+            {
+                "verified":"2020-11-25T15:00:00Z",
+                "members":[
+                    "CVHLHL2018050300",
+                    "CVHLHL2020080601",
+                    "CVHLHL2020112602"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 天災ピンク三銃士",
+        "ENname":"hololive TensaiPinkSanjushi",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",16]],
+        "colorEN":[["#27c7ff",9],["#ffffff",18]]
+    },
+    "hololive holo-nomi":{
+        "value":[
+            {
+                "verified":"2020-08-05T15:00:00Z",
+                "members":[
+                    "CVHLHL2018060100",
+                    "CVHLHL2019080101",
+                    "CVHLHL2020080600"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ ホロのみ",
+        "ENname":"hololive holo-nomi",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",8]],
+        "colorEN":[["#27c7ff",9],["#ffffff",9]]
+    },
+    "hololive peek-a-boo":{
+        "value":[
+            {
+                "verified":"2020-08-05T15:00:00Z",
+                "members":[
+                    "CVHLHL2018060200",
+                    "CVHLHL2018060102",
+                    "CVHLHL2020080601"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ ぴーかーぶぅ",
+        "ENname":"hololive peek-a-boo",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",12]],
+        "colorEN":[["#27c7ff",9],["#ffffff",10]]
+    },
+    "hololive HO/LAURENT":{
+        "value":[
+            {
+                "verified":"2019-12-24T15:00:00Z",
+                "members":[
+                    "CVHLHL2018060101",
+                    "CVHLHL2019080100",
+                    "CVHLHL2019122502"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ バカタレ共",
+        "ENname":"hololive HO/LAURENT",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",10]],
+        "colorEN":[["#27c7ff",9],["#ffffff",10]]
+    },
+    "hololive DokkiriLabyrinth":{
+        "value":[
+            {
+                "verified":"2020-08-05T15:00:00Z",
+                "members":[
+                    "CVHLHL2018060200",
+                    "CVHLHL2020080601",
+                    "CVHLHL2020080604"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ どっきりラビリンス",
+        "ENname":"hololive Dokkiri-Labyrinth",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",18]],
+        "colorEN":[["#27c7ff",9],["#ffffff",17]]
+    },
+    "hololive karASHi":{
+        "value":[
+            {
+                "verified":"2020-11-30T15:00:00Z",
+                "members":[
+                    "CVHLHL2018060200",
+                    "CVHLHL2019080100",
+                    "CVHLHL2019120100"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ karASHi (からし組)",
+        "ENname":"hololive karASHi",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",18]],
+        "colorEN":[["#27c7ff",9],["#ffffff",7]]
+    },
+    "hololive ChamaTanNanora":{
+        "value":[
+            {
+                "verified":"2019-12-24T15:00:00Z",
+                "members":[
+                    "CVHLHL2018060200",
+                    "CVHLHL2019122500",
+                    "CVHLHL2019122504"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ ちゃまたんなのら",
+        "ENname":"hololive ChamaTanNanora",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",16]],
+        "colorEN":[["#27c7ff",9],["#ffffff",14]]
+    },
+    "hololive Pota-Trio":{
+        "value":[
+            {
+                "verified":"2019-12-24T15:00:00Z",
+                "members":[
+                    "CVHLHL2018060200",
+                    "CVHLHL2019122502",
+                    "CVHLHL2019122504"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ ぽてとりお",
+        "ENname":"hololive Pota-Trio",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",10]],
+        "colorEN":[["#27c7ff",9],["#ffffff",9]]
+    },
+    "hololive MANJI-GUMI":{
+        "value":[
+            {
+                "verified":"2018-09-02T15:00:00Z",
+                "members":[
+                    "CVHLHL2018080800",
+                    "CVHLHL2018081700",
+                    "CVHLHL2018090300"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 卍組",
+        "ENname":"hololive MANJI-GUMI",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",4]],
+        "colorEN":[["#27c7ff",9],["#ffffff",10]]
+    },
+    "hololive Spice-Love":{
+        "value":[
+            {
+                "verified":"2019-07-07T15:00:00Z",
+                "members":[
+                    "CVHLHL2018080800",
+                    "CVHLHL2018091600",
+                    "CVHLHL2019070800"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ スパイスラブ",
+        "ENname":"hololive Spice-Love",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",12]],
+        "colorEN":[["#27c7ff",9],["#ffffff",10]]
+    },
+    "hololive NEGI☆U":{
+        "value":[
+            {
+                "verified":"2020-08-05T15:00:00Z",
+                "members":[
+                    "CVHLHL2018080800",
+                    "CVHLHL2018091600",
+                    "CVHLHL2020080601"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ NEGI☆U",
+        "ENname":"hololive NEGI☆U",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",7]],
+        "colorEN":[["#27c7ff",9],["#ffffff",7]]
+    },
+    "hololive NemuiGumi":{
+        "value":[
+            {
+                "verified":"2019-04-12T15:00:00Z",
+                "members":[
+                    "CVHLHL2018081700",
+                    "CVHLHL2019040600",
+                    "CVHLHL2019041300"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ ねむい組",
+        "ENname":"hololive NemuiGumi",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",8]],
+        "colorEN":[["#27c7ff",9],["#ffffff",9]]
+    },
+    "hololive AyaFubuMi":{
+        "value":[
+            {
+                "verified":"2022-01-01T03:00:00Z",
+                "members":[
+                    "CVHLHL2018090300",
+                    "CVHLHL2018060101",
+                    "CVHLHL2018120600"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ いろはにほへっと あやふぶみ",
+        "ENname":"hololive AyaFubuMi",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",27]],
+        "colorEN":[["#27c7ff",9],["#ffffff",9]]
+    },
+    "hololive DonKi-Hou-Ten":{
+        "value":[
+            {
+                "verified":"2019-12-24T15:00:00Z",
+                "members":[
+                    "CVHLHL2018090300",
+                    "CVHLHL2019080102",
+                    "CVHLHL2019122500"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ ドン鬼宝天",
+        "ENname":"hololive DonKi-Hou-Ten",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",10]],
+        "colorEN":[["#27c7ff",9],["#ffffff",13]]
+    },
+    "hololive お姉三姉妹":{
+        "value":[
+            {
+                "verified":"2021-11-3015:00:00Z",
+                "members":[
+                    "CVHLHL2019080101",
+                    "CVHLHL2018082000",
+                    "CVHLHL2020080600"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ お姉三姉妹",
+        "ENname":"hololive お姉三姉妹",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",10]],
+        "colorEN":[["#27c7ff",9],["#ffffff",10]]
+    },
+    "hololive SubaChocoLuna":{
+        "value":[
+            {
+                "verified":"2020-10-14T15:00:00Z",
+                "members":[
+                    "CVHLHL2018091600",
+                    "CVHLHL2018082000",
+                    "CVHLHL2019122504"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ スバちょこルーナ",
+        "ENname":"hololive SubaChocoLuna",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",16]],
+        "colorEN":[["#27c7ff",9],["#ffffff",13]]
+    },
+    "hololive ホロライブ牧場":{
+        "value":[
+            {
+                "verified":"2019-04-05T15:00:00Z",
+                "members":[
+                    "CVHLHL2018120600",
+                    "CVHLHL2018080800",
+                    "CVHLHL2019040600"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ ホロライブ牧場",
+        "ENname":"hololive hololiveBokujo",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",14]],
+        "colorEN":[["#27c7ff",9],["#ffffff",14]]
+    },
+    "hololive MOF":{
+        "value":[
+            {
+                "verified":"2019-04-05T15:00:00Z",
+                "members":[
+                    "CVHLHL2018120600",
+                    "CVHLHL2019040600",
+                    "CVHLHL2018060101"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ MOF",
+        "ENname":"hololive MOF",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",3]],
+        "colorEN":[["#27c7ff",9],["#ffffff",3]]
+    },
+    "hololive KAOKAYUi":{
+        "value":[
+            {
+                "verified":"2019-04-05T15:00:00Z",
+                "members":[
+                    "CVHLHL2019122500",
+                    "CVHLHL2019040600",
+                    "CVHLHL2020080600"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ かおかゆィ",
+        "ENname":"hololive KAOKAYUi",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",10]],
+        "colorEN":[["#27c7ff",9],["#ffffff",8]]
+    },
+    "hololive PEBOT":{
+        "value":[
+            {
+                "verified":"2021-09-06T03:00:00Z",
+                "members":[
+                    "CVHLHL2019070800",
+                    "CVHLHL2019122503",
+                    "CVHLHL2020080602"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ ぺこトワぼた",
+        "ENname":"hololive PEBOT",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",12]],
+        "colorEN":[["#27c7ff",9],["#ffffff",5]]
+    },
+    "hololive hololiveFantasy-OnesanGumi":{
+        "value":[
+            {
+                "verified":"2019-07-31T15:00:00Z",
+                "members":[
+                    "CVHLHL2019080100",
+                    "CVHLHL2019080101",
+                    "CVHLHL2019080102"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ ホロファンお姉さん組",
+        "ENname":"hololive hololiveFantasy-OnesanGumi",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",20]],
+        "colorEN":[["#27c7ff",9],["#ffffff",18]]
+    },
+    "hololive Dokyos":{
+        "value":[
+            {
+                "verified":"2020-08-21T03:00:00Z",
+                "members":[
+                    "CVHLHL2019122500",
+                    "CVHLHL2019122501",
+                    "CVHLHL2019120100"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 同居ーず",
+        "ENname":"hololive Dokyos",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",8]],
+        "colorEN":[["#27c7ff",9],["#ffffff",6]]
+    },
+    "hololive PP-trio":{
+        "value":[
+            {
+                "verified":"2019-12-24T15:00:00Z",
+                "members":[
+                    "CVHLHL2019122500",
+                    "CVHLHL2019122501",
+                    "CVHLHL2019122502"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ PPトリオ",
+        "ENname":"hololive PP-trio",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",8]],
+        "colorEN":[["#27c7ff",9],["#ffffff",7]]
+    },
+    "hololive KanaRiAre":{
+        "value":[
+            {
+                "verified":"2020-11-25T15:00:00Z",
+                "members":[
+                    "CVHLHL2019122500",
+                    "CVHLHL2020112602",
+                    "CVHLHL2019080100"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ かなりあ",
+        "ENname":"hololive KanaRiAre",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",8]],
+        "colorEN":[["#27c7ff",9],["#ffffff",9]]
+    },
+    "hololive Ls":{
+        "value":[
+            {
+                "verified":"2020-11-25T15:00:00Z",
+                "members":[
+                    "CVHLHL2019122504",
+                    "CVHLHL2020080600",
+                    "CVHLHL2020112601"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ えーるず",
+        "ENname":"hololive Ls",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",8]],
+        "colorEN":[["#27c7ff",9],["#ffffff",2]]
+    },
+    "hololive Momosuzuke":{
+        "value":[
+            {
+                "verified":"2023-04-16T03:00:00Z",
+                "members":[
+                    "CVHLHL2020080601",
+                    "CVHLHL2018122500"
+                ]
+            },
+            {
+                "verified":"2023-04-17T03:00:00Z",
+                "members":[
+                    "CVHLHL2020080601",
+                    "CVHLHL2018122500",
+                    "CVHLHL2018050300"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 桃鈴家",
+        "ENname":"hololive Momosuzuke",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",6]],
+        "colorEN":[["#27c7ff",9],["#ffffff",10]]
+    },
+    "hololive BakatareDomo":{
+        "value":[
+            {
+                "verified":"2020-03-15T15:00:00Z",
+                "members":[
+                    "CVHLHL2018060101",
+                    "CVHLHL2019080100",
+                    "CVHLHL2019122502"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ バカタレ共",
+        "ENname":"hololive BakatareDomo",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",10]],
+        "colorEN":[["#27c7ff",9],["#ffffff",12]]
+    },
+    "hololive BakatareCircus":{
+        "value":[
+            {
+                "verified":"2021-04-21T03:00:00Z",
+                "subgroup":[
+                    "hololive BakatareDomo"
+                ],
+                "members":[
+                    "CVHLHL2020080604"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ バカタレサーカス",
+        "ENname":"hololive BakatareCircus",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",16]],
+        "colorEN":[["#27c7ff",9],["#ffffff",14]]
+    },
+
+    "hololive AKUKIN Kensetsu":{
+        "value":[
+            {
+                "verified":"2020-12-25T15:00:00Z",
+                "members":[
+                    "CVHLHL2018080800",
+                    "CVHLHL2018120600",
+                    "CVHLHL2019080102",
+                    "CVHLHL2018030400",
+                    "CVHLHL2018082000",
+                    "CVHLHL2020080600",
+                    "CVHLHL2020080601",
+                    "CVHLHL2018060100",
+                    "CVHLHL2019122500",
+                    "CVHLHL2020040602",
+                    "CVHLHL2019080100",
+                    "CVHLHL2018050300",
+                    "CVHLHL2018081700"
+                ]
+            },
+            {
+                "verified":"2023-01-29T03:00:00Z",
+                "members":[
+                ]
+            }
+        ],
+        "JAname":"ホロライブ AKUKIN建設",
+        "ENname":"hololive AKUKIN Kensetsu",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",10]],
+        "colorEN":[["#27c7ff",9],["#ffffff",15]]
+    },
+    "hololive Usada Kensetsu":{
+        "value":[
+            {
+                "verified":"2019-09-11T03:00:00Z",
+                "members":[
+                    "CVHLHL2019070800",
+                    "CVHLHL2020040601",
+                    "CVHLHL2019122501",
+                    "CVHLHL2020090902",
+                    "CVHLHL2019122500"
+                ]
+            },
+            {
+                "verified":"2021-04-01T03:00:00Z",
+                "members":[
+                    "CVHLHL2019070800",
+                    "CVHLHL2020040601",
+                    "CVHLHL2019122501",
+                    "CVHLHL2020090902",
+                    "CVHLHL2019122500",
+                    "CVHLHL2019122503"
+                ]
+            },
+            {
+                "verified":"2021-05-21T03:00:00Z",
+                "members":[
+                    "CVHLHL2019070800",
+                    "CVHLHL2020040601",
+                    "CVHLHL2019122501",
+                    "CVHLHL2020090902",
+                    "CVHLHL2019122500",
+                    "CVHLHL2019122503",
+                    "CVHLHL2019070801"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 兎田建設",
+        "ENname":"hololive Usada Kensetsu",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",8]],
+        "colorEN":[["#27c7ff",9],["#ffffff",14]]
+    },
+    "hololive Shiranuhi Construction":{
+        "value":[
+            {
+                "verified":"2021-02-03T03:00:00Z",
+                "members":[
+                    "CVHLHL2019080100",
+                    "CVHLHL2020080604"
+                ]
+            },
+            {
+                "verified":"2021-02-26T03:00:00Z",
+                "members":[
+                    "CVHLHL2019080100",
+                    "CVHLHL2020080604",
+                    "CVHLHL2018122500"
+                ]
+            },
+            {
+                "verified":"2021-04-28T03:00:00Z",
+                "members":[
+                    "CVHLHL2019080100",
+                    "CVHLHL2020080604",
+                    "CVHLHL2018122500",
+                    "CVHLHL2019120100"
+                ]
+            },
+            {
+                "verified":"2021-12-11T03:00:00Z",
+                "members":[
+                    "CVHLHL2019080100",
+                    "CVHLHL2020080604",
+                    "CVHLHL2018122500",
+                    "CVHLHL2019120100",
+                    "CVHLHL2019080101"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 不知火建設",
+        "ENname":"hololive Shiranuhi Construction",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",10]],
+        "colorEN":[["#27c7ff",9],["#ffffff",22]]
+    },
+    "hololive Dorobo Kensetsu":{
+        "value":[
+            {
+                "verified":"2023-04-08T03:00:00Z",
+                "members":[
+                    "CVHLHL2019040600",
+                    "CVHLHL2020112601"
+                ]
+            },
+            {
+                "verified":"2023-04-20T03:00:00Z",
+                "members":[
+                    "CVHLHL2019040600",
+                    "CVHLHL2020112601",
+                    "CVHLHL2018120600"
+                ]
+            },
+            {
+                "verified":"2023-04-27T03:00:00Z",
+                "members":[
+                    "CVHLHL2019040600",
+                    "CVHLHL2020112601",
+                    "CVHLHL2018120600",
+                    "CVHLHL2018060101"
+                ]
+            },
+            {
+                "verified":"2023-06-16T03:00:00Z",
+                "members":[
+                    "CVHLHL2019040600",
+                    "CVHLHL2020112601",
+                    "CVHLHL2018120600",
+                    "CVHLHL2018060101",
+                    "CVHLHL2020112600"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ 泥棒建設",
+        "ENname":"hololive Dorobo Kensetsu",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",8]],
+        "colorEN":[["#27c7ff",9],["#ffffff",15]]
+    }
+}
+
