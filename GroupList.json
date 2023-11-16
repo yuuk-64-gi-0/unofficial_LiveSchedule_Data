@@ -543,6 +543,16 @@
                 "members":[
                     "CVHLHS2022071500"
                 ]
+            },
+            {
+                "verified":"2023-11-15T15:00:00Z",
+                "subgroup":[
+                    "HOLOSTARS English -TEMPUS-",
+                    "HOLOSTARS English -ARMIS-"
+                ],
+                "members":[
+                    "CVHLHS2022071500"
+                ]
             }
         ],
         "JAname":"HOLOSTARS English",
@@ -1205,6 +1215,24 @@
         "color":"#ffffff",
         "colorJP":[["#616aff",13],["#ffffff",6]],
         "colorEN":[["#616aff",10],["#a055d2",7],["#ffffff",9]]
+    },
+    "HOLOSTARS English -ARMIS-":{
+        "value":[
+            {
+                "verified":"2023-11-15T15:00:00Z",
+                "members":[
+                    "CVHLHS2023111600",
+                    "CVHLHS2023111601",
+                    "CVHLHS2023111602",
+                    "CVHLHS2023111603"
+                ]
+            }
+        ],
+        "JAname":"ホロスターズ ARMIS",
+        "ENname":"HOLOSTARS English -ARMIS-",
+        "color":"#ffffff",
+        "colorJP":[["#616aff",13],["#ffffff",5]],
+        "colorEN":[["#616aff",10],["#a055d2",7],["#ffffff",8]]
     },
     "hololive NePoLaBo":{
         "value":[

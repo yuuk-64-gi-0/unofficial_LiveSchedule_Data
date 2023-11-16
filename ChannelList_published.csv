@@ -9,7 +9,7 @@ CVHLHL2020062900,hololive Indonesia official,ホロライブインドネシア (
 CVHLHL2020090906,hololive English official,ホロライブEnglish (公式チャンネル),hololiveEnglish,,#c283b6,
 CVHLHS2019101701,HOLOSTARS (JP) official,ホロスターズ (公式チャンネル),HOLOSTARS,,#616aff,
 CVHLHS2022071500,HOLOSTARS English official,ホロスターズEnglish (公式チャンネル),HOLOSTARSenglish,,#a055d2,
-CVHLHL2023082700,hololive DEV_IS,hololive DEV_IS,hololiveDEV_IS,,#ffffff,
+CVHLHL2023082700,hololive DEV_IS official,hololive DEV_IS (公式チャンネル),hololiveDEV_IS,,#ffffff,
 CVHLHL2019120100,Hoshimachi Suisei,星街すいせい,HoshimachiSuisei,,#2dcde4,9732:65039
 CVHLHL2018122500,Sakura Miko,さくらみこ,SakuraMiko,sakuramiko_hololive,#fe4b74,127800
 CVHLHL2017090700,Tokino Sora,ときのそら,TokinoSora,,#0146ea,128059:128191
@@ -104,3 +104,7 @@ CVHLHL2023090401,Otonose Kanade,音乃瀬奏,OtonoseKanade,,#ffe7b5C,x1f3b9:x272
 CVHLHL2023090402,Ichijou Ririka,一条莉々華,IchijouRirika,,#f47da9,x1f303
 CVHLHL2023090403,Juufuutei Raden,儒烏風亭らでん,JuufuuteiRaden,,#3c7c71,x1f41a
 CVHLHL2023090404,Todoroki Hajime,轟はじめ,TodorokiHajime,,#b6b9ff,x1f427:x26a1
+CVHLHS2023111600,Jurard T Rexford,Jurard T Rexford,JurardTRexford,,,x1F996
+CVHLHS2023111601,Goldbullet,Goldbullet,Goldbulletch,,,x1F985
+CVHLHS2023111602,Octavio,Octavio,Octavio_en,,,x267E
+CVHLHS2023111603,Crimzon Ruze,Crimzon Ruze,CrimzonRuze,,,x1F4A2
