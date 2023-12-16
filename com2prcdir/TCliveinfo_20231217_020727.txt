@@ -1,5 +1,4 @@
 AdminID,StreamKind,livestatus,schedule_str,starttime_str,Platform,StreamID,otherAdminIDs,StreamTitle
-CVHLHL2018122500,Live,upcoming,2023-12-16T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
 CVHLHL2018122500,Live,upcoming,2023-12-23T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
 CVHLHL2018122500,Live,upcoming,2023-12-30T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
 CVHLHL2018122500,Live,upcoming,2024-01-06T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
@@ -19,5 +18,6 @@ CVHLHL2018122500,Live,upcoming,2024-04-06T14:00:00Z,,Twitch,sakuramiko_hololive/
 CVHLHL2018122500,Live,upcoming,2024-04-13T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
 CVHLHL2018122500,Live,upcoming,2024-04-20T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
 CVHLHL2018122500,Live,upcoming,2024-04-27T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
+CVHLHL2018122500,Live,upcoming,2024-05-04T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
 CVHLHL2019122503,Live,live,2023-12-16T15:12:10Z,2023-12-16T15:12:10Z,Twitch,tokoyamitowa_holo,,【Grand Theft Auto V】VCRGTA2：ビビリじゃない【この放送はvaultroomの実施する企画の一環として、配信しております。】
 CVHLHL2020112600,Live,live,2023-12-16T12:21:28Z,2023-12-16T12:21:28Z,Twitch,laplusdarknesss_hololive,,【Grand Theft Auto V】VCR GTA２KAKUMEI/この放送はvaultroomの実施する企画の一環として、配信しております。
