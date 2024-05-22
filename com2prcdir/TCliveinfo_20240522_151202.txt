@@ -1,4 +1,5 @@
 AdminID,StreamKind,livestatus,schedule_str,starttime_str,Platform,StreamID,otherAdminIDs,StreamTitle
+CVHLHL2018030400,Live,live,2024-05-22T06:01:31Z,2024-05-22T06:01:31Z,Twitch,robocosan_hololive,,【VALORANT】valorant/誕生日前日のバフでボクは強い！！【ホロライブ / ロボ子さん】
 CVHLHL2018122500,Live,upcoming,2024-05-25T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
 CVHLHL2018122500,Live,upcoming,2024-06-01T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
 CVHLHL2018122500,Live,upcoming,2024-06-08T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
