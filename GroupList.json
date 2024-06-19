@@ -402,6 +402,20 @@
                 "members":[
                     "CVHLHL2020090906"
                 ]
+            },
+            {
+                "verified":"2024-06-19T03:00:00Z",
+                "subgroup":[
+                    "hololive Myth",
+                    "hololive Project: HOPE",
+                    "hololive Promise",
+                    "hololive Council",
+                    "hololive Advent",
+                    "hololive Justice"
+                ],
+                "members":[
+                    "CVHLHL2020090906"
+                ]
             }
         ],
         "JAname":"ホロライブEnglish",
@@ -647,7 +661,6 @@
             {
                 "verified":"2024-01-16T15:00:00Z",
                 "members":[
-                    "CVHLHL2018050300",
                     "CVHLHL2018060100",
                     "CVHLHL2018060101",
                     "CVHLHL2018060102",
@@ -1040,6 +1053,24 @@
         ],
         "JAname":"ホロライブ Promise",
         "ENname":"hololive Promise",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",11],["#ffffff",7]],
+        "colorEN":[["#27c7ff",9],["#ffffff",7]]
+    },
+    "hololive Justice":{
+        "value":[
+            {
+                "verified":"2024-06-19T03:00:00Z",
+                "members":[
+                    "CVHLHS2024061900",
+                    "CVHLHS2024061901",
+                    "CVHLHS2024061902",
+                    "CVHLHS2024061903"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ Justice",
+        "ENname":"hololive Justice",
         "color":"#ffffff",
         "colorJP":[["#27c7ff",11],["#ffffff",7]],
         "colorEN":[["#27c7ff",9],["#ffffff",7]]
