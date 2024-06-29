@@ -1,5 +1,4 @@
 AdminID,StreamKind,livestatus,schedule_str,starttime_str,Platform,StreamID,otherAdminIDs,StreamTitle
-CVHLHL2018122500,Live,upcoming,2024-06-29T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
 CVHLHL2018122500,Live,upcoming,2024-07-06T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
 CVHLHL2018122500,Live,upcoming,2024-07-13T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
 CVHLHL2018122500,Live,upcoming,2024-07-20T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
@@ -19,3 +18,4 @@ CVHLHL2018122500,Live,upcoming,2024-10-19T14:00:00Z,,Twitch,sakuramiko_hololive/
 CVHLHL2018122500,Live,upcoming,2024-10-26T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
 CVHLHL2018122500,Live,upcoming,2024-11-02T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
 CVHLHL2018122500,Live,upcoming,2024-11-09T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
+CVHLHL2018122500,Live,upcoming,2024-11-16T14:00:00Z,,Twitch,sakuramiko_hololive/schedule,,Miko WatchParty!!
