@@ -9,7 +9,8 @@ CVHLHL2020062900,hololive Indonesia official,ホロライブインドネシア (
 CVHLHL2020090906,hololive English official,ホロライブEnglish (公式チャンネル),hololiveEnglish,,#c283b6,
 CVHLHS2019101701,HOLOSTARS (JP) official,ホロスターズ (公式チャンネル),HOLOSTARS,,#616aff,
 CVHLHS2022071500,HOLOSTARS English official,ホロスターズEnglish (公式チャンネル),HOLOSTARSenglish,,#a055d2,
-CVHLHL2023082700,hololive DEV_IS official,hololive DEV_IS (公式チャンネル),hololiveDEV_IS,,#ffffff,
+CVHLHL2023082700,hololive DEV_IS ReGLOSS official,hololive DEV_IS ReGLOSS (公式チャンネル),hololiveDEV_IS,,#ffffff,
+CVHLHL2024110600,hololive DEV_IS FLOW GLOW official,hololive DEV_IS FLOW GLOW (公式チャンネル),DEV_IS_FLOWGLOW,,#ffffff,
 CVHLHL2019120100,Hoshimachi Suisei,星街すいせい,HoshimachiSuisei,,#2dcde4,9732:65039
 CVHLHL2018122500,Sakura Miko,さくらみこ,SakuraMiko,sakuramiko_hololive,#fe4b74,127800
 CVHLHL2017090700,Tokino Sora,ときのそら,TokinoSora,,#0146ea,128059:128191
@@ -21,7 +22,7 @@ CVHLHS2019060302,Kanade Izuru,奏手イヅル,KanadeIzuru,,#233ba4,x1F3B8
 CVHLHS2019090100,Arurandeisu,アルランディス,Arurandeisu,,#2f6f4f,x1F355
 CVHLHS2019090200,CVHLHS2019090200,CVHLHS2019090200,,,,
 CVHLHS2019101700,Rikka,律可,rikka,,#eab3b8,x2699
-CVHLHL2018050300,Yozora Mel,夜空メル,YozoraMel,,#ffc004,127775
+CVHLHL2018050300,CVHLHL2018050300,CVHLHL2018050300,,,#ffc004,127775
 CVHLHL2018060100,Aki Rosenthal,アキ・ローゼンタール,AkiRosenthal,,#dc0485,127822
 CVHLHL2018060101,Shirakami Fubuki,白上フブキ,ShirakamiFubuki,,#53c7ea,127805
 CVHLHL2018060102,Natsuiro Matsuri,夏色まつり,NatsuiroMatsuri,,#ff5606,127982
@@ -43,7 +44,7 @@ CVHLHL2019040600,Nekomata Okayu,猫又おかゆ,NekomataOkayu,,#bf65e8,127833
 CVHLHL2019041300,Inugami Korone,戌神ころね,InugamiKorone,,#dcb414,129360
 CVHLHS2022031900,Yatogami Fuma,夜十神封魔,YatogamiFuma,,#fabf13,x1F99D
 CVHLHS2022031901,Utsugi Uyu,羽継烏有,UtsugiUyu,utsugiuyu_uproar,#f9eee2,x1F0CF
-CVHLHS2022031902,Hizaki Gamma,緋崎ガンマ,HizakiGamma,,#e60012,x1F58C
+CVHLHS2022031902,CVHLHS2022031902,CVHLHS2022031902,,,#e60012,x1F58C
 CVHLHS2022031903,Minase Rio,水無世燐央,MinaseRio,minaserio_uproar,#a4a8d4,x1F56F
 CVHLHL2019070800,Usada Pekora,兎田ぺこら,usadapekora,usadapekora_hololive,#65baea,x1f46f:x200d:x2640:xfe0f:8205:65039
 CVHLHL2019070801,CVHLHL2019070801,CVHLHL2019070801,,,#0de1bd,129419
@@ -108,7 +109,12 @@ CVHLHS2023111600,Jurard T Rexford,Jurard T Rexford,JurardTRexford,,#383635,x1F99
 CVHLHS2023111601,Goldbullet,Goldbullet,Goldbulletch,,#0a6463,x1F985
 CVHLHS2023111602,Octavio,Octavio,Octavio_en,,#1c449a,x267E
 CVHLHS2023111603,Crimzon Ruze,Crimzon Ruze,CrimzonRuze,,#e60012,x1F4A2
-CVHLHS2024061900,Elizabeth Rose Bloodflame,Elizabeth Rose Bloodflame,holoen_erbloodflame,,#97303a,x1f484
-CVHLHS2024061901,Gigi Murin,Gigi Murin,holoen_gigimurin,,#cd9328,x1f467
-CVHLHS2024061902,Cecilia Immergreen,Cecilia Immergreen,holoen_ceciliaimmergreen,,#137a42,x1f375
-CVHLHS2024061903,Raora Panthera,Raora Panthera,holoen_raorapanthera,,#e75786,x1f431
+CVHLHL2024061900,Elizabeth Rose Bloodflame,Elizabeth Rose Bloodflame,holoen_erbloodflame,,#97303a,x1f484
+CVHLHL2024061901,Gigi Murin,Gigi Murin,holoen_gigimurin,,#cd9328,x1f467
+CVHLHL2024061902,Cecilia Immergreen,Cecilia Immergreen,holoen_ceciliaimmergreen,,#137a42,x1f375
+CVHLHL2024061903,Raora Panthera,Raora Panthera,holoen_raorapanthera,,#e75786,x1f431
+CVHLHL2024110700,Isaki Riona,響咲リオナ,IsakiRiona,,#c92655,x1f3a4:x1f451
+CVHLHL2024110701,Koganei Niko,虎金妃笑虎,KoganeiNiko,,#f25e11,x263a:xfe0f:x1f405
+CVHLHL2024110702,Mizumiya Su,水宮枢,MizumiyaSu,,#64cce4,x1f4ac:x1f501:x1f499
+CVHLHL2024110703,Rindo Chihaya,輪堂 千速,RindoChihaya,,#2c8c8b,x1f3a7:x1f527
+CVHLHL2024110704,Kikirara Vivi,綺々羅々 ヴィヴィ,KikiraraVivi,,#e6499b,x1f485:x2728

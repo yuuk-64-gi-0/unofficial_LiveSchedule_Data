@@ -439,6 +439,17 @@
                 "members":[
                     "CVHLHL2023082700"
                 ]
+            },
+            {
+                "verified":"2024-11-06T13:00:00Z",
+                "subgroup":[
+                    "hololive ReGLOSS",
+                    "hololive FLOW GLOW"
+                ],
+                "members":[
+                    "CVHLHL2023082700",
+                    "CVHLHL2024110600"
+                ]
             }
         ],
         "JAname":"ホロライブ DEV_IS",
@@ -589,6 +600,12 @@
                     "CVHLHL2017090701",
                     "CVHLHL2022040101"
                 ]
+            },
+            {
+                "verified":"2024-07-01T15:00:00Z",
+                "members":[
+                    "CVHLHL2022040101"
+                ]
             }
         ],
         "JAname":"ホロライブ 事務所スタッフ",
@@ -710,6 +727,15 @@
                 "verified":"2018-09-16T03:00:00Z",
                 "members":[
                     "CVHLHL2018080800",
+                    "CVHLHL2018081700",
+                    "CVHLHL2018082000",
+                    "CVHLHL2018090300",
+                    "CVHLHL2018091600"
+                ]
+            },
+            {
+                "verified":"2024-08-20T15:00:00Z",
+                "members":[
                     "CVHLHL2018081700",
                     "CVHLHL2018082000",
                     "CVHLHL2018090300",
@@ -1062,10 +1088,10 @@
             {
                 "verified":"2024-06-19T03:00:00Z",
                 "members":[
-                    "CVHLHS2024061900",
-                    "CVHLHS2024061901",
-                    "CVHLHS2024061902",
-                    "CVHLHS2024061903"
+                    "CVHLHL2024061900",
+                    "CVHLHL2024061901",
+                    "CVHLHL2024061902",
+                    "CVHLHL2024061903"
                 ]
             }
         ],
@@ -1093,6 +1119,30 @@
         "color":"#ffffff",
         "colorJP":[["#27c7ff",10],["#ffffff",8]],
         "colorEN":[["#27c7ff",9],["#ffffff",8]]
+    },
+    "hololive FLOW GLOW":{
+        "value":[
+            {
+                "verified":"2024-11-06T13:00:00Z",
+                "members":[
+                ]
+            },
+            {
+                "verified":"2024-11-07T03:05:00Z",
+                "members":[
+                    "CVHLHL2024110700",
+                    "CVHLHL2024110701",
+                    "CVHLHL2024110702",
+                    "CVHLHL2024110703",
+                    "CVHLHL2024110704"
+                ]
+            }
+        ],
+        "JAname":"ホロライブ FLOW GLOW",
+        "ENname":"hololive FLOW GLOW",
+        "color":"#ffffff",
+        "colorJP":[["#27c7ff",10],["#ffffff",9]],
+        "colorEN":[["#27c7ff",9],["#ffffff",9]]
     },
     "HOLOSTARS 1st Generation":{
         "value":[
@@ -1215,6 +1265,14 @@
                     "CVHLHS2022031900",
                     "CVHLHS2022031901",
                     "CVHLHS2022031902",
+                    "CVHLHS2022031903"
+                ]
+            },
+            {
+                "verified":"2024-07-17T15:00:00Z",
+                "members":[
+                    "CVHLHS2022031900",
+                    "CVHLHS2022031901",
                     "CVHLHS2022031903"
                 ]
             }
